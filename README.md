@@ -8,7 +8,7 @@ All programs are implemented in **Python 3**.
 ---
 
 ## ✅ Problem-1: Calculator Using Class
-- **File:** `program-1.py`
+- **File:** `Program-1.py`
 - **Description:**  
   This program defines a `Calculator` class that takes two numbers (`a`, `b`) as `float` and an operation as a `string` (`add`, `subtract`, `multiply`, `divide`).  
   It performs the respective arithmetic operation and returns the result. Handles division by zero gracefully.
@@ -16,7 +16,7 @@ All programs are implemented in **Python 3**.
 ---
 
 ## ✅ Problem-2: Generate Series – First `a` Odd Numbers
-- **File:** `program-2.py`
+- **File:** `Program-2.py`
 - **Description:**  
   Given an integer `a`, this program generates a list of the first `a` odd numbers starting from 1.  
   Example: If input is `4`, output will be: `1, 3, 5, 7`.
@@ -24,7 +24,7 @@ All programs are implemented in **Python 3**.
 ---
 
 ## ✅ Problem-3: Generate Series – Based on Odd Ranges
-- **File:** `program-3.py`
+- **File:** `Program-3.py`
 - **Description:**  
   This program generates a series of odd numbers based on a single integer input `a`.  
   - If `a` is odd, generate `a` odd numbers.  
@@ -34,7 +34,7 @@ All programs are implemented in **Python 3**.
 ---
 
 ## ✅ Problem-4: Count Multiples in a List
-- **File:** `program-4.py`
+- **File:** `Program-4.py`
 - **Description:**  
   This program takes a list of integers as input and returns a dictionary showing the count of numbers divisible by each of the integers from `1` to `9`.  
   Example:  
@@ -48,7 +48,7 @@ All programs are implemented in **Python 3**.
 To run any of the programs, open your terminal and use:
 
 ```bash
-python program-1.py
-python program-2.py
-python program-3.py
-python program-4.py
+python Program-1.py
+python Program-2.py
+python Program-3.py
+python Program-4.py
